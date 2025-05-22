@@ -1,0 +1,3 @@
+﻿  prak10.cpp
+D:\practykun\prak10\prak10.cpp(52,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  prak10.vcxproj -> D:\practykun\prak10\x64\Debug\prak10.exe
